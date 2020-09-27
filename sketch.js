@@ -33,7 +33,7 @@ function setup() {
 
 function draw() {
   
-  rectMode(CENTER);
+  //rectMode(CENTER);
   background(0);
  
   Engine.update(engine);
